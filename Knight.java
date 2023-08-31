@@ -13,7 +13,7 @@ public class Knight extends Hero {
 
 
     public void status()    {
-        System.out.println("You are playing as Hero:");
+        System.out.println("You are playing as Knight:");
         System.out.println("HP: " + hp);
         System.out.println("Fatigue: " + fatigue);
         System.out.println("1 ability: " + ability1);
