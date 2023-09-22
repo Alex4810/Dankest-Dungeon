@@ -23,5 +23,5 @@ Dankest Dungeon is a text-based adventure game that focuses on storytelling and 
 To experience Dankest Dungeon, follow these simple installation steps:
 
 1. Clone this repository to your local machine.
-2. Run in your IDE of choice.
+2. Run "Game.java" in your IDE of choice.
 3. Have fun (mandatory).
