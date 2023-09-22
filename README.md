@@ -1,6 +1,5 @@
 # Dankest Dungeon
 
-![Dankest Dungeon Logo](dankest_dungeon_logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
