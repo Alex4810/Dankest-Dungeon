@@ -11,8 +11,6 @@
 
 Welcome to Dankest Dungeon! This is an early-stage text-based adventure game inspired by the renowned Darkest Dungeon. Immerse yourself in a captivating narrative and make strategic choices as you navigate through the evolving storyline.
 
-![Dankest Dungeon Screenshot](dankest_dungeon_screenshot.png)
-
 ## Game Overview
 
 Dankest Dungeon is a text-based adventure game that focuses on storytelling and decision-making. Here's what you can experience in the current version:
@@ -26,7 +24,6 @@ Dankest Dungeon is a text-based adventure game that focuses on storytelling and 
 
 To experience Dankest Dungeon, follow these simple installation steps:
 
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/yourusername/dankest-dungeon.git
+1. Clone this repository to your local machine.
+2. Run in your IDE of choice.
+3. Have fun (mandatory).
