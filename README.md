@@ -8,12 +8,11 @@
 
 ## Introduction
 
-Welcome to Dankest Dungeon! This is an early-stage text-based adventure game inspired by the renowned Darkest Dungeon. Immerse yourself in a captivating narrative and make strategic choices as you navigate through the evolving storyline.
+Welcome to Dankest Dungeon! This is an early-stage text-based adventure game. Although its namesake was inspired by Darkest Dungeon, the gameplay is nothing like it at all. Immerse yourself in a somewhat captivating narrative and make strategic choices as you navigate through the lack of storyline.
 
 ## Game Overview
 
 Dankest Dungeon is a text-based adventure game that focuses on storytelling and decision-making. Here's what you can experience in the current version:
-
 
 - **Interactive Text:** Interact with the game through text-based prompts and choose your path as you encounter various scenarios and challenges.
 
