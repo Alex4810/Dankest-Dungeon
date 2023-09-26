@@ -25,11 +25,11 @@ public class Game {
             clear();
             rules();
             System.out.println("input anything to continue\n");
-            input = scan.nextLine();
+            scan.nextLine();
             clear();
             hero.status();
             System.out.println("input anything to continue\n");
-            input = scan.nextLine();
+            scan.nextLine();
         }
         clear();
         System.out.println("Ready to start your adventure? (y/n)\n");
